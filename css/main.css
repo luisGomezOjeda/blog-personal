@@ -125,7 +125,7 @@ nav .profile-link a{
 .home-main section a{
     padding: 15px 40px;
     height: 35px;
-    background: linear-gradient(-20deg, rgb(28, 170, 196),rgb(0, 140, 255));
+    background:linear-gradient(20deg,  rgb(28, 170, 196),rgb(80, 138, 185));
     font-family: 'PT Sans', sans-serif;
     font-size: 2.5rem;
     font-weight: 900;
@@ -147,7 +147,7 @@ nav .profile-link a{
 
 .blogs-main-new{
     display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 1fr 2fr;
     grid-template-rows: 2fr;
 }
 
@@ -261,7 +261,7 @@ footer p{
 .contact-main-contanier{
     width: 100%;
     min-height: 250px;
-    background-color: #17172583;
+    background-color:#17172550;
     text-align: center;
     padding-top:30px;
     padding-bottom: 25px;
